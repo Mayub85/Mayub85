@@ -1,12 +1,12 @@
 # Mayub85
 ## Welcome stranger!
 
-- M
--   A
--       N
--           I
--               J
--                   A
+-   M
+-       A
+-           N
+-               I
+-                   J
+-                       A
 
 
 ⚡⚡⚡⚡⚡⚡⚡
