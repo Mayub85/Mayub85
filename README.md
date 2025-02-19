@@ -7,8 +7,7 @@
               |___/                        
 ```
 
-- 🔭 I´m currently working at YPF
-- 🌱 I´m taking a Full Stack course to improve my knowledge
+- 🔭 I´m currently working at Globallogic
 - 📫 You can email me at: mariano.g.ayub@gmail.com
 
 <!--
